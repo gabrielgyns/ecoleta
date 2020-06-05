@@ -10,6 +10,6 @@ No mesmo podemos selecionar o ponto em um mapa, incluindo o estado e cidade, nom
 A estrutura do projeto ficariam dividas da seguinte forma, temos um back end feito em **NodeJS** com algumas bibliotecas, na qual irá dispor de APIs RESTful e armazenar os dados em um banco **SQLite**.
 Também temos um front end criado em **ReactJS** e **TypeScript** que consome as APIs em questão.
 
-Para ver o README do BACK END [clique aqui](https://github.com/gabrielgyns/ecoleta/tree/master/server)
+Para ver o projeto do BACK END com README [clique aqui](https://github.com/gabrielgyns/ecoleta/tree/master/server)
 <br />
-Para ver o README do FRONT END [clique aqui](https://github.com/gabrielgyns/ecoleta/tree/master/web)
+Para ver o projeto do FRONT END com README [clique aqui](https://github.com/gabrielgyns/ecoleta/tree/master/web)
