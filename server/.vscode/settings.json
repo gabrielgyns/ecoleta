@@ -1,0 +1,15 @@
+{
+    "material-icon-theme.folders.associations": {
+        "repositories": "mappings",
+        "migrations": "tools",
+        "infra": "app",
+        "typeorm": "database",
+        "http": "container",
+        "modules": "components",
+        "fakes": "mock",
+        "implementations": "core",
+        "dtos": "typescript",
+        "schemas": "class",
+        
+    }
+}
